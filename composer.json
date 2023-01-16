@@ -1,6 +1,6 @@
 
 {
-  "name": "mbiya135/mezzio-sentry",
+  "name": "azgaou/mezzio-sentry",
   "type": "library",
   "description": "Sentry ErrorHandler",
   "license": "MIT",
