@@ -1,18 +1,17 @@
-
 {
   "name": "azgaou/mezzio-sentry",
   "type": "library",
-  "description": "Sentry ErrorHandler",
+  "description": "Fork of of the official mbiya135/mezzio-sentry Sentry ErrorHandler",
   "license": "MIT",
   "require": {
-    "sentry/sdk": "^2.1",
-    "mezzio/mezzio": "^3.2",
-    "laminas/laminas-servicemanager": "3.3"
+    "sentry/sdk": "^3.0",
+    "mezzio/mezzio": "^3.3",
+    "laminas/laminas-servicemanager": "3.7"
   },
   "require-dev": {
-    "phpstan/phpstan": "^0.11.19",
-    "phpstan/phpstan-strict-rules": "^0.11.1",
-    "squizlabs/php_codesniffer": "^3.4"
+    "phpstan/phpstan": "^1.9",
+    "phpstan/phpstan-strict-rules": "^1.4",
+    "squizlabs/php_codesniffer": "^3.7"
   },
   "config": {
     "sort-packages": true
